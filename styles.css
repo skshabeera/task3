@@ -90,6 +90,10 @@ body {
 .navigation .link-active {
     font-weight: bold;
 }
+.navigation .link:hover{
+    background-color: darkmagenta;
+
+}
 
 
 .hero {
