@@ -10,6 +10,8 @@ body {
     font-family: 'Inter', sans-serif;
     margin: 0px;
     font-size: large;
+    
+    
 
 }
 
@@ -57,11 +59,13 @@ body {
 .list-non-bullet {
     list-style: none;
     padding-inline-start: 0px;
+    
 }
 
 .list-item-inline {
     display: inline;
     padding: 0rem 0.5rem;
+    
 }
 
 
@@ -116,6 +120,8 @@ body {
 
 .section {
     padding: 2rem;
+    color:black;
+    background-color:var(--off-white) ;
 }
 
 .section h1 {
@@ -151,6 +157,10 @@ body {
 
 .showcase-list {
     padding: 2rem;
+    
+}
+.showcase-h1{
+    color: aquamarine;
 }
 
 .showcase-blog {
